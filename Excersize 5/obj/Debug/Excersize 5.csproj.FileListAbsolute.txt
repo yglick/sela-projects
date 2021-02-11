@@ -1,0 +1,7 @@
+C:\Users\yotam\source\repos\Excersize 5\Excersize 5\bin\Debug\Excersize 5.exe.config
+C:\Users\yotam\source\repos\Excersize 5\Excersize 5\bin\Debug\Excersize 5.exe
+C:\Users\yotam\source\repos\Excersize 5\Excersize 5\bin\Debug\Excersize 5.pdb
+C:\Users\yotam\source\repos\Excersize 5\Excersize 5\obj\Debug\Excersize 5.csprojAssemblyReference.cache
+C:\Users\yotam\source\repos\Excersize 5\Excersize 5\obj\Debug\Excersize 5.csproj.CoreCompileInputs.cache
+C:\Users\yotam\source\repos\Excersize 5\Excersize 5\obj\Debug\Excersize 5.exe
+C:\Users\yotam\source\repos\Excersize 5\Excersize 5\obj\Debug\Excersize 5.pdb
